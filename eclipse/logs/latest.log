@@ -1,0 +1,31 @@
+[20:31:52] [main/INFO]: Setting user: Player864
+[20:31:54] [Client thread/INFO]: LWJGL Version: 2.9.1
+[20:32:02] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Wrenched Selector
+[20:32:03] [Sound Library Loader/INFO]: Sound engine started
+[20:32:04] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
+[20:32:04] [Client thread/INFO]: Created: 16x16 textures/items-atlas
+[20:32:05] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Wrenched Selector
+[20:32:05] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[20:32:05] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[20:32:06] [Sound Library Loader/INFO]: Sound engine started
+[20:32:09] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[20:32:09] [Server thread/INFO]: Generating keypair
+[20:32:12] [Server thread/INFO]: Preparing start region for level 0
+[20:32:13] [Server thread/INFO]: Changing view distance to 12, from 10
+[20:32:14] [Server thread/INFO]: Player864[local:E:5707e021] logged in with entity id 326 at (200.80232074987353, 66.0, 244.7289108683718)
+[20:32:14] [Server thread/INFO]: Player864 joined the game
+[20:32:22] [Server thread/INFO]: [Player864: Given [tile.wrenchedselector:null.name] * 1 to Player864]
+[20:32:22] [Client thread/INFO]: [CHAT] Given [tile.wrenchedselector:null.name] * 1 to Player864
+[20:32:26] [Server thread/INFO]: Player864 has just earned the achievement [Taking Inventory]
+[20:32:26] [Client thread/INFO]: [CHAT] Player864 has just earned the achievement [Taking Inventory]
+[20:32:35] [Server thread/INFO]: Saving and pausing game...
+[20:32:35] [Server thread/INFO]: Saving chunks for level 'test'/Overworld
+[20:32:35] [Server thread/INFO]: Saving chunks for level 'test'/Nether
+[20:32:35] [Server thread/INFO]: Saving chunks for level 'test'/The End
+[20:32:36] [Server thread/INFO]: Stopping server
+[20:32:36] [Server thread/INFO]: Saving players
+[20:32:36] [Server thread/INFO]: Saving worlds
+[20:32:36] [Server thread/INFO]: Saving chunks for level 'test'/Overworld
+[20:32:36] [Server thread/INFO]: Saving chunks for level 'test'/Nether
+[20:32:36] [Server thread/INFO]: Saving chunks for level 'test'/The End
+[20:32:38] [Client thread/INFO]: Stopping!

@@ -1,0 +1,16 @@
+[
+{
+  "modid": "wrenchedselector",
+  "name": "Wrenched Selector",
+  "description": "A selector for Wrenched Items",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Stacinator"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
